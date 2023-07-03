@@ -8,6 +8,7 @@ This is a simple music player application implemented in Python using the `pygam
 - tkinter library
 - mutagen library (for reading MP3 file metadata)
 - PIL (Python Imaging Library) for working with images
+- A folder containing all MP3 songs
 
 ## Setup and Usage
 1. Install the required libraries:
@@ -15,8 +16,8 @@ This is a simple music player application implemented in Python using the `pygam
 (`pip install tkinter`)
 (`pip install mutagen`)
 (`pip install Pillow`)
-2. Place the Python script in a directory along with your music files (MP3 format).
-3. Run the Python script `music_player.py`.
+2. Place the Python script in a directory along with your music files (MP3 format) and all pngs with it.
+3. Run the Python script `musicplayer.py`.
 4. A window will open showing the current directory. Click on the "Select Folder" button to choose the directory containing your MP3 files.
 5. Once the folder is selected, the list of MP3 files in that folder will be displayed in the listbox.
 6. To play a song, select it from the list and click the "Play/Resume" button. The selected song will start playing.
@@ -41,4 +42,4 @@ The player uses custom icons for the buttons. You can replace the icon images (`
 ## Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the project's GitHub repository.
 
-Enjoy your music with the simple Python Music Player! If you have any questions or feedback, feel free to reach out to the developer.
+Enjoy your music with the simple Python Music Player! If you have any questions or feedback, feel free to reach out to the developer<3.
