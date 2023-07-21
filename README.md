@@ -37,7 +37,6 @@ The player uses custom icons for the buttons. You can replace the icon images (`
 ## Known Issues
 - If there are other MP3 files in the selected folder that are not listed in the player, they will not be playable using the player's controls. Only the MP3 files listed in the player can be played.
 - The player's GUI may not handle very large song lists gracefully.
-- Please note that I did this project alone, which means there might be several bugs! Pardon them; I will try to review the code later and add more functionality.
 
 ## Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the project's GitHub repository.
